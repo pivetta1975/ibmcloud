@@ -526,3 +526,20 @@ body {
     to { transform: rotate(360deg); }
 }
 
+
+
+.read-more {
+    display: inline-block;
+    margin-top: 10px;
+    color: #0f62fe;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.read-more:hover {
+    color: #002d9c;
+    text-decoration: underline;
+}
+
+
