@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1=".53" y1="31.33" x2="31.25" y2=".47" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fa4d56"/>
+      <stop offset=".9" stop-color="#0f62fe"/>
+    </linearGradient>
+  </defs>
+  <g id="Build_icon_here" data-name="Build icon here">
+    <g>
+      <rect class="cls-1" width="32" height="32"/>
+      <path class="cls-2" d="m14.22,13.47h-.07l-1.17,2.35-3.13,5.68-3.06-5.66-1.22-2.53h-.07v10.69h-3.29V7.95h3.7l3.93,7.52h.05l3.89-7.52h3.73v16.05h-3.29v-10.53Zm14.03-1.54h3.17l-4.65,13.94c-.31.94-.74,1.63-1.3,2.07-.56.44-1.36.67-2.4.67h-2.12v-2.65h2.28l.41-1.33-4.23-12.7h3.38l1.77,5.64.87,3.5h.14l.9-3.5,1.77-5.64Z"/>
+    </g>
+  </g>
+</svg>
